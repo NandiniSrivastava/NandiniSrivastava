@@ -20,17 +20,17 @@ Passionate about building scalable and efficient solutions, I specialize in clou
 
 ---
 
-#🔥**Featured Projects**
+## 🔥**Featured Projects**
 
-##📌 Classroom Vacancy and Management System
+### 📌 Classroom Vacancy and Management System
 
 An automated system for classroom occupancy tracking and management, ensuring efficient space utilization.
 
-##🍄 Streamlit Mushroom Classification App
+### 🍄 Streamlit Mushroom Classification App
 
 A machine learning-powered Streamlit app for mushroom classification, leveraging AI to predict edibility.
 
-##📊 ML Model with Evidently - Dockerized Streamlit App
+### 📊 ML Model with Evidently - Dockerized Streamlit App
 A Dockerized Streamlit application integrating Evidently AI for monitoring and visualizing ML model performance.
 
 ----
