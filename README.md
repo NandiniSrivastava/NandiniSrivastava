@@ -1,31 +1,38 @@
-# **Hi there, I'm Nandini Srivastava!**
+#**Hi there, I'm Nandini Srivastava!** 👋
 
-🚀 **Aspiring Software Engineer | Cloud Enthusiast**  
+🚀 Aspiring Software Engineer | Cloud Enthusiast
 
-Driven by a passion for building **scalable and efficient solutions**, I specialize in **cloud computing, DevOps, and full-stack development**. My expertise includes **designing, deploying, and optimizing cloud-based architectures** while ensuring **high availability and security**. With a **problem-solving mindset** and hands-on experience in **AWS, Docker, and Kubernetes**, I am eager to contribute to impactful projects and continuously expand my technical horizon.  
+Passionate about building scalable and efficient solutions, I specialize in cloud computing, DevOps, and full-stack development. My expertise lies in designing, deploying, and optimizing cloud-based architectures, ensuring high availability, security, and reliability. With a problem-solving mindset and hands-on experience in AWS, Docker, and Kubernetes, I am eager to contribute to impactful projects and continuously expand my technical horizon.
 
----
+🌟 About Me
 
-##🌟 About Me
 🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun
+
 🏆 AWS Certified | Multiple Cloud & Security Certifications
-💻 Tech Stack: C, C++, Python, Java, HTML, CSS, JavaScript, AWS, SQL, Cloud Computing
-🌱 Currently exploring Docker, Kubernetes, and AI-driven automation
+
+💻 Tech Stack: C, C++, HTML, CSS, AWS, MySQL, Docker
+
+🌱 Currently exploring Docker, and AI-driven automation
+
 🎯 Seeking software engineering internships
-🤝 Marketing Manager, UPES Open Community
+
+🤝 Design & VFX Team Member at UPES CSA Student chapter
 
 ---
 
-##🔥 **Featured Projects**
-###📌 Classroom Vacancy and Management System
+##🔥 Featured Projects
+
+📌 Classroom Vacancy and Management System
+
 An automated system for classroom occupancy tracking and management, ensuring efficient space utilization.
 
-###🍄 Streamlit Mushroom Classification App
+🍄 Streamlit Mushroom Classification App
+
 A machine learning-powered Streamlit app for mushroom classification, leveraging AI to predict edibility.
 
-###📊 ML Model with Evidently - Dockerized Streamlit App
-A Dockerized Streamlit application integrating Evidently AI for monitoring and visualizing ML model performance.
+📊 ML Model with Evidently - Dockerized Streamlit App
 
+A Dockerized Streamlit application integrating Evidently AI for monitoring and visualizing ML model performance.
 ----
 
 ## 🌐 **Socials:**
