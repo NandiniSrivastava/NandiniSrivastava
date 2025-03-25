@@ -20,7 +20,7 @@ Passionate about building scalable and efficient solutions, I specialize in clou
 
 ---
 
-#🔥 Featured Projects
+#🔥**Featured Projects**
 
 ##📌 Classroom Vacancy and Management System
 
