@@ -6,17 +6,17 @@ Passionate about building scalable and efficient solutions, I specialize in clou
 
 🌟 About Me
 
-● 🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun
+🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun
 
-● 🏆 AWS Certified | Multiple Cloud & Security Certifications
+🏆 AWS Certified | Multiple Cloud & Security Certifications
 
-● 💻 Tech Stack: C, C++, HTML, CSS, AWS, MySQL, Docker
+💻 Tech Stack: C, C++, HTML, CSS, AWS, MySQL, Docker
 
-● 🌱 Currently exploring Docker, and AI-driven automation
+🌱 Currently exploring Docker, and AI-driven automation
 
-● 🎯 Seeking software engineering internships
+🎯 Seeking software engineering internships
 
-● 🤝 Design & VFX Team Member at UPES CSA Student chapter
+🤝 Design & VFX Team Member at UPES CSA Student chapter
 
 ---
 
@@ -35,7 +35,7 @@ A Dockerized Streamlit application integrating Evidently AI for monitoring and v
 
 ----
 
-## 🌐 **Socials:**
+# 🌐 **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandini-srivastava-078480213/) ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nandini.105220@stu.upes.ac.in) 
 
 # 💻 **Tech Stack:**
