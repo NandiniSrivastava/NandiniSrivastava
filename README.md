@@ -1,4 +1,4 @@
-# ** Hi there, I'm Nandini Srivastava!**
+# **Hi there, I'm Nandini Srivastava!**
 
 🚀 **Aspiring Software Engineer | Cloud Enthusiast**  
 
