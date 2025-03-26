@@ -6,7 +6,7 @@ Passionate about building scalable and efficient solutions, I specialize in clou
 
 ---
 
-🌟 About Me
+## 🌟 About Me
 
 🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun
 
