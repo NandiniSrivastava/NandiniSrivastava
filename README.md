@@ -4,6 +4,8 @@
 
 Passionate about building scalable and efficient solutions, I specialize in cloud computing, DevOps, and full-stack development. My expertise lies in designing, deploying, and optimizing cloud-based architectures, ensuring high availability, security, and reliability. With a problem-solving mindset and hands-on experience in AWS, Docker, and Kubernetes, I am eager to contribute to impactful projects and continuously expand my technical horizon.
 
+---
+
 🌟 About Me
 
 🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun
